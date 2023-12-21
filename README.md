@@ -7,7 +7,7 @@ to create the server create a directory on desktop and use commands in cmd:
 ## _starting server:_     
                           1) cd Desktop
                           2) cd [name of directory]
-                          3) downloading mindustry from here -> (https://github.com/Anuken/Mindustry/releases/download/v146/server-release.jar)
+                          3) downloading mindustry from here -> https://github.com/Anuken/Mindustry/releases/download/v146/server-release.jar
                           4) copying from downloads and paste to your mindustry-server directory
                           5) java -jar server-release.jar
                           6) downloading plugin from here
