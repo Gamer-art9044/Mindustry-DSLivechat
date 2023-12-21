@@ -1,7 +1,8 @@
 # Mindustry-DSLivechat
 # Plugin for send messages from mindustry to discord channel
 to create the server create a directory on desktop and use commands in cmd:
-## _if you cant run cmd:_ 1) press WIN + R and type cmd
+## _if you cant run cmd:_ 
+                          1) press WIN + R and type cmd
                           2) press enter
 ## _starting server:_     1) cd Desktop
                           2) cd [name of directory]
